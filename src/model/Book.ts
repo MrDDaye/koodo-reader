@@ -23,7 +23,7 @@ class Book {
     path: string,
     charset: string
   ) {
-    this.key = key; // 数据库的键 testing
+    this.key = key; // 数据库的键
     this.name = name; // 书籍名
     this.author = author; // 作者
     this.description = description; // 书籍的描述
